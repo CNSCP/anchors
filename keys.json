@@ -1,0 +1,13 @@
+{
+  "journal_format": 1,
+  "keys": [
+    {
+      "key_id": "cp-anchor-2026-09",
+      "public_key": "Rj9bGQe5TSJWmlcQoa4lJer0oj4r9lL6TJQQrqhDynI",
+      "valid_from": "2026-09-14T16:06:51.122Z",
+      "valid_to": null,
+      "vouched_by": null,
+      "vouch_signature": null
+    }
+  ]
+}
