@@ -1,0 +1,9 @@
+{
+  "journal_format": 1,
+  "origin": "https://cp.cnscp.io",
+  "head_seq": 213,
+  "head_event_hash": "21cc288491f96e596668f3f8e9652865744ee601383db0cb639653a72d317909",
+  "at": "2026-09-22T19:09:51Z",
+  "key_id": "cp-anchor-2026-09",
+  "signature": "P5ytd1RqTGHH9IJXiqLwm2ENG5JE7VvHdvBXHFYkPbV0rTVtWW7TevHMuriv59P3q8MiH_hAE6PMj9EE4ajtDQ"
+}
